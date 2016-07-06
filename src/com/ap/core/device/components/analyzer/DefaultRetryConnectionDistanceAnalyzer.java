@@ -20,7 +20,9 @@ import com.ap.core.device.context.UserPreference;
 import com.ap.core.device.exceptions.DataAnalyzeException;
 
 /**
- * @author jungwhan DefaultRetryConnectionDistanceAnalyzer.java 4:26:05 PM Feb 27, 2016 2016
+ * @author jungwhan 
+ * DefaultRetryConnectionDistanceAnalyzer.java 
+ * 4:26:05 PM Feb 27, 2016 2016
  */
 public class DefaultRetryConnectionDistanceAnalyzer extends AbstractDistanceAnalyzer implements SensorDataAnalyzer {
 	protected static final String TAG = DefaultRetryConnectionDistanceAnalyzer.class.getSimpleName();
