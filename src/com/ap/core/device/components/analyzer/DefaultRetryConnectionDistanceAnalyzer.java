@@ -8,6 +8,7 @@ package com.ap.core.device.components.analyzer;
  * Proprietary and confidential
  * Written by Jungwhan Kim Projecteria LLC, 2016 April 19
  */
+ 
 
 import im.delight.android.location.SimpleLocation;
 import android.content.Context;
